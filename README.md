@@ -1,2 +1,3 @@
 # ExamenDAWDanielMontero
-Repositorio para el examen de despliegue de aplicaciones Web.
+Examen del primer semestre
+Repositorio creado para el examen del primer semestre de Daniel Montero.
